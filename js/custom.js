@@ -81,7 +81,7 @@
                 loop: false,
                 nav: false,
                 dots: true,
-                items: 1,
+                items: 2,
                 margin: 30,
                 autoplay: false,
                 smartSpeed: 700,
@@ -96,11 +96,11 @@
                         margin: 20
                     },
                     576: {
-                        items: 1,
+                        items: 2,
                         margin: 20
                     },
                     992: {
-                        items: 1,
+                        items: 2,
                         margin: 30
                     }
                 }
